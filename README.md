@@ -1,6 +1,6 @@
 # Client-Server Socket Communication for Data Exchange 
 
-**Description**
+**Description
 
 This project demonstrates client-server communication using Java sockets. It includes:
 
@@ -10,7 +10,7 @@ Two-way communication: The server processes and responds to the client's request
 
 
 
-**Features**
+**Features
 
 Establishes a connection between a client and server over a network.
 
@@ -22,7 +22,7 @@ Demonstrates fundamental networking concepts in Java.
 
 
 
-###Code Overview##
+###Code Overview
 
 **Server (ServerSoc.java)**
 
@@ -54,6 +54,6 @@ Networking: Java Sockets (TCP/IP)
 
 
 
-###Author###
+###Author
 
 Maheshwari B
