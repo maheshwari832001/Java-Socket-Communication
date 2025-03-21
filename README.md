@@ -9,43 +9,31 @@ Two-way communication: The server processes and responds to the client's request
 
 **Features**
 
-Establishes a connection between a client and server over a network.
+Establishes a connection between a client and server over a network.<br>
+Supports both one-way and two-way data exchange.<br>
+Implements basic input/output stream handling.<br>
+Demonstrates fundamental networking concepts in Java.<br>
 
-Supports both one-way and two-way data exchange.
-
-Implements basic input/output stream handling.
-
-Demonstrates fundamental networking concepts in Java.
-
-
-
-**Code Overview**
+##Code Overview
 
 **Server (ServerSoc.java)**
 
-Listens on a specific port (9999).
-Accepts client connections.
-Reads data from the client.
-Sends a response back.
-
+Listens on a specific port (9999).<br>
+Accepts client connections.<br>
+Reads data from the client.<br>
+Sends a response back.<br>
 
 **Client (Client.java)**
 
-Connects to the server on localhost.
-
-Sends a message.
-
-Receives and displays the server's response.
-
+Connects to the server on localhost.<br>
+Sends a message.<br>
+Receives and displays the server's response.<br>
 
 
 **Technologies Used**
 
-Programming Language: Java
-
-Networking: Java Sockets (TCP/IP)
-
-
+Programming Language: Java. <br>
+Networking: Java Sockets (TCP/IP) <br>
 
 
 **Author**
