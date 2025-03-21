@@ -2,9 +2,9 @@
 
 **Description**
 
--This project demonstrates client-server communication using Java sockets. It includes:
--One-way communication: The client sends data to the server.
--Two-way communication: The server processes and responds to the client's request.
+This project demonstrates client-server communication using Java sockets. It includes:<br>
+One-way communication: The client sends data to the server.<br>
+Two-way communication: The server processes and responds to the client's request.<br>
 
 
 **Features**
