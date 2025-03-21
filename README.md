@@ -1,6 +1,6 @@
 # Client-Server Socket Communication for Data Exchange 
 
-**Description
+_Description_
 
 This project demonstrates client-server communication using Java sockets. It includes:
 
@@ -22,7 +22,7 @@ Demonstrates fundamental networking concepts in Java.
 
 
 
-###Code Overview
+##Code Overview
 
 **Server (ServerSoc.java)**
 
