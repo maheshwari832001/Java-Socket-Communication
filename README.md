@@ -30,12 +30,12 @@ Sends a message.<br>
 Receives and displays the server's response.<br>
 
 
-**Technologies Used**
+### Technologies Used
 
 Programming Language: Java. <br>
 Networking: Java Sockets (TCP/IP) <br>
 
 
-**Author**
+#### Author
 
 Maheshwari B
